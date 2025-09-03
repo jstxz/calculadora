@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+body{
+    font-size: 2rem;
+    background-color:bisque;
+}
+
+li{
+    display: inline-block;
+    margin-inline: 5rem;
+}
+li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+li a:visited{
+    color: rgb(0, 0, 0);
+
+}
+li a:hover,
+li a:active{
+    text-decoration: underline;
+}
+
+ul{
+    background-color: white;
+padding: 0.3rem;
+}

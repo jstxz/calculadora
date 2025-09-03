@@ -42,3 +42,11 @@ html:has(.titulo:hover) {
     margin: 4rem;
     color: black;
 }
+
+a{
+    color: rgb(183, 183, 183);
+}
+
+a:visited{
+    color: rgb(183, 183, 183);
+}
