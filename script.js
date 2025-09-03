@@ -19,6 +19,7 @@ if (isNaN(numero2)) {
 
 if (simbolo == 1){
 let resultado = numero1 + numero2;
+alert("O resultado deu " + resultado + "!");
 } else if (simbolo == 2){
 let resultado = numero1 - numero2;
 alert("O resultado deu " + resultado + "!");
